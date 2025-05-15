@@ -1,0 +1,25 @@
+# Core ML & Deep Learning
+tensorflow==2.9.1
+keras==2.9.0
+
+# Image processing
+pillow==9.0.1
+opencv-python==4.5.5.64
+numpy==1.20.1
+
+# Visualization (optional but common)
+matplotlib==3.5.1
+seaborn==0.11.2
+
+# Data handling
+pandas==1.4.2
+scikit-learn==1.0.2
+scipy==1.8.0
+
+# App framework
+streamlit==1.19.0
+
+# Utility
+urllib3==1.26.9
+altair==4.2.2
+
