@@ -13,3 +13,4 @@ torch==1.13.1
 torchvision==0.14.1
 torchsummary==1.5.1
 urllib3==1.26.14
+altair==4.2.2
